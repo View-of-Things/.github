@@ -5,9 +5,11 @@
 
   # View of Things
   <img src="https://github.com/View-of-Things/.github/blob/main/logo.png" width=128/>
+
+  ## 🚧 Work in progress
 </div>
 
 
 
-## 🚧 Work in progress
+
 
